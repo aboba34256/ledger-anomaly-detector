@@ -15,7 +15,7 @@ Only use numbers you have reproduced yourself (`python -m ledgerguard.evaluation
 
 **Title:** LedgerGuard: Ledger Anomaly Detector
 **Description:** Explainable audit analytics tool that scans a general ledger for duplicate payments, Benford's Law violations, segregation-of-duties conflicts, off-hours postings, and amounts sitting just under approval limits, then writes an audit-style note for each flag. Built in Python and Streamlit, validated on synthetic ledgers with seeded irregularities. Open source.
-**Link:** https://github.com/aboba34256/ledger-anomaly-detector
+**Link:** https://ledgerguard-aboba34256.streamlit.app/ (code: https://github.com/aboba34256/ledger-anomaly-detector)
 
 ## LinkedIn post (edit to sound like you)
 

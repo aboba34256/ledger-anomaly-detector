@@ -4,7 +4,7 @@ Upload a general ledger and LedgerGuard flags the entries an auditor would want 
 
 > Built for accounting and finance students and practitioners who want to see how data analytics and AI fit into audit work. Flags are **indicators for follow-up, not proof of error or fraud.**
 
-**Live demo:** _add your Streamlit link here_
+**Live demo:** [ledgerguard-aboba34256.streamlit.app](https://ledgerguard-aboba34256.streamlit.app/)
 
 ![LedgerGuard dashboard](docs/demo.png)
 
