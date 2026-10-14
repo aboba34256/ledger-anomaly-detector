@@ -32,7 +32,7 @@ Overall-ledger Benford conformity is also reported using Nigrini's mean-absolute
 ## Quick start
 
 ```bash
-git clone https://github.com/<your-username>/ledger-anomaly-detector.git
+git clone https://github.com/aboba34256/ledger-anomaly-detector.git
 cd ledger-anomaly-detector
 python -m venv .venv && source .venv/bin/activate     # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
